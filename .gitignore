@@ -1,1 +1,17 @@
+# Dependencies
+node_modules/
 
+Environemnt Variables
+.env
+
+#logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#intellij files
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
