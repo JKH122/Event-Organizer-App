@@ -1,0 +1,24 @@
+{
+  "name": "event_organizer",
+  "version": "1.0.0",
+  "description": "App that helps organize events such as RSVP and planning/editing for admins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKH122/Event-Organizer-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKH122/Event-Organizer-App/issues"
+  },
+  "homepage": "https://github.com/JKH122/Event-Organizer-App#readme",
+  "dependencies": {
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  }
+}
